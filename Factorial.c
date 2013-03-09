@@ -3,4 +3,5 @@
 
 void main(){
 	printf("Prueba de un archivo en c");
+	printf("Se modifico este archivo de c");
 }
